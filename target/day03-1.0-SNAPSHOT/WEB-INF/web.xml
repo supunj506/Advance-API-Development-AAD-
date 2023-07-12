@@ -9,6 +9,14 @@
     </servlet-mapping>
     <servlet>
         <servlet-name>MappingSpec</servlet-name>
-        <servlet-class>com.example.day03.MappingSpec</servlet-class>
+        <servlet-class>com.example.API.MappingSpec</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>SaveStudent</servlet-name>
+        <url-pattern>/save</url-pattern>
+    </servlet-mapping>
+    <servlet>
+        <servlet-name>SaveStudent</servlet-name>
+        <servlet-class>com.example.API.SaveStudent</servlet-class>
     </servlet>
 </web-app>
