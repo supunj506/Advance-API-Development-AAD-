@@ -5,9 +5,9 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.example</groupId>
-    <artifactId>day03</artifactId>
+    <artifactId>API Basic</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <name>day03</name>
+    <name>API Basic</name>
     <packaging>war</packaging>
 
     <properties>
